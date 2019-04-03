@@ -1,0 +1,4 @@
+bool calibrate_gyr
+bool calibrate_acc
+---
+bool accepted

@@ -1,0 +1,5 @@
+string path_to_map
+int8 coarse_angle
+float32 refinement_angle
+---
+bool successful

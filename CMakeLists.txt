@@ -32,6 +32,7 @@ add_service_files(
   FILES
   Start_recalibration.srv
   End_recalibration.srv
+  Map_comparsion.srv
 )
 
 ## Generate actions in the 'action' folder
